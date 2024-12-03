@@ -1,7 +1,7 @@
 // Authentication Configuration
 const config = {
-    clientId: '7adb0aa909ad4d0db1a63ee540f7bd29',
-    redirectUri: 'http://localhost:5174/callback',
+    clientId: 'f4767adbf9164340afbf12ac586abbe2',
+    redirectUri: 'https://tranquil-parfait-14ab87.netlify.app/callback',
     scopes: [
         'streaming',
         'user-read-email',
